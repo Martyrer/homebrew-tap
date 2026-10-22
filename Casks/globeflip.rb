@@ -1,6 +1,6 @@
 cask "globeflip" do
   version "1.0"
-  sha256 "c05bf15648ef4a48b3fa0de93771fde2ce3938a4bdfdc3651cf9255306aa4db9"
+  sha256 "f09e34a2f52697b25d8da3c51ae51c104b96c50155f93a4073755d27a08ee4df"
 
   url "https://github.com/Martyrer/GlobeFlip/releases/download/v#{version}/GlobeFlip-#{version}-arm64.zip"
   name "GlobeFlip"
